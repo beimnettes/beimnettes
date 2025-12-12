@@ -97,10 +97,6 @@ My experience spans frontend, backend, and database development, with a strong f
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=beimnettes" alt="beimnettes" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=beimnettes&show_icons=true&locale=en" alt="beimnettes" />
 </p>
 
